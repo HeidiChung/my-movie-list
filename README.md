@@ -1,8 +1,6 @@
-
-
 # Movie List
-*URL: https://heidichung.github.io/my-movie-list/
-*A simple web application for movie fanatic
+- URL: https://heidichung.github.io/my-movie-list/
+- A simple web application for movie fanatic
 
 ## Features
 - listing movies from movie api
