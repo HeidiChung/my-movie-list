@@ -1,5 +1,9 @@
+
+
 # Movie List
-A simple web application for movie fanatic
+-[My-Movie-List](https://example.com/my-image.png)
+-URL: https://heidichung.github.io/my-movie-list/
+-A simple web application for movie fanatic
 
 ## Features
 - listing movies from movie api
